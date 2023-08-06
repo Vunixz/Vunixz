@@ -2,15 +2,22 @@
 
 - 👨‍💻 Estou aprendendo HTML, CSS, C++, C# e Python
 - ⚙ Quero cursar engenharia da computação
+- 📘 2° ano do ensino médio
 - 📩 Contate-me no email: vinicius.menezes22007@gmail.com
 
-[![FeelsIdkBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsIdkBro&show_icons=true&theme=tokyonight&rank_icon=github&ring_color=ec675d)](https://github.com/FeelsIdkBro/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeelsIdkBro&layout=donut&theme=tokyonight)
+<div align="center">
+  
+  [![FeelsIdkBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsIdkBro&show_icons=true&theme=tokyonight&rank_icon=github&ring_color=ec675d)](https://github.com/FeelsIdkBro/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeelsIdkBro&layout=donut&theme=tokyonight)
+  
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,py" />
   </a>
 </p>
+
+<hr>  
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC8UWXV8JHbpQcOZP_ye8csQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
