@@ -3,7 +3,7 @@
 - 👨‍💻 Estou aprendendo HTML, CSS, C++, C# e Python
 - ⚙ Quero cursar engenharia da computação
 - 📘 2° ano do ensino médio
-- 📩 Contate-me no email: vinicius.menezes22007@gmail.com
+- 📩 Contate-me no email: vinicius.menezes2007@gmail.com
 
 <div align="center">
   
