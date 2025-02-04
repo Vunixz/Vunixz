@@ -1,6 +1,6 @@
 ### Opa! Tudo bem? Eu sou o @FeelsIdkBro🌆!
 
-- 👨‍💻 Estou aprendendo HTML, CSS, C++, C# e Python
+- 👨‍💻 Estou aprendendo!
 - 📩 Contate-me no email: vinicius.menezes2007@gmail.com
 
 <div align="center">
