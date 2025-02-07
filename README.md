@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently learning JavaScript and TypeScript
 - 📩 Mail me at:: vinicius.menezes2007@gmail.com
 - ⚙  Future software engineer
-      🇧🇷🌴
+
 
 <div align="center">
   
