@@ -1,7 +1,8 @@
-### Opa! Tudo bem? Eu sou o @FeelsIdkBro🌆!
+### Hi, how are you? i'm @FeelsIdkBro🌆!
 
-- 👨‍💻 Estou aprendendo!
-- 📩 Contate-me no email: vinicius.menezes2007@gmail.com
+- 👨‍💻 I'm currently learning JavaScript and TypeScript
+- 📩 Mail me at:: vinicius.menezes2007@gmail.com
+- ⚙  Future software engineer
 
 <div align="center">
   
