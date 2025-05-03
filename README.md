@@ -1,4 +1,4 @@
-### Hi, how are you? i'm @FeelsIdkBro🌆!
+### Hi, how are you? i'm @Vunixz
 
 - 👨‍💻 I'm currently learning JavaScript and TypeScript
 - 📩 Mail me at:: vinicius.menezes2007@gmail.com
@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  [![FeelsIdkBro's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeelsIdkBro&show_icons=true&theme=tokyonight&rank_icon=github&ring_color=ec675d)](https://github.com/FeelsIdkBro/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeelsIdkBro&layout=donut&theme=tokyonight)
+  [![Vunixz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vunixz&show_icons=true&theme=tokyonight&rank_icon=github&ring_color=ec675d)](https://github.com/Vunixz/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vunixz&layout=donut&theme=tokyonight)
   
 </div>
 
