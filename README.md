@@ -2,9 +2,8 @@
 
 - 👨‍💻 I'm currently learning JavaScript and TypeScript
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
+- 📚 Knows a lot about JS, CSS, HTML, Python (But i'm kind of rusty)
 - ⚙  Future software engineer
-- Knows a lot about JS, HTML, Python, CSS
-
 
 <div align="center">
   
