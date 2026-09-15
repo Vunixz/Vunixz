@@ -2,8 +2,8 @@
 
 - 👨‍💻 I'm currently learning Java and mastering C
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
-- 📚 Knows a lot about JS, CSS, HTML, Python (But i'm kind of rusty)
-- ⚙  Future software engineer
+- 📚 Knows a lot about JS, CSS, HTML, Python, C, C++
+- ⚙  Currently studying Software Engineering at UFLA (🟩🟩⬛⬛⬛40%)
 
 <div align="center">
   
