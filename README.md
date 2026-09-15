@@ -1,6 +1,6 @@
 ## Hi, how are you? i'm @Vunixz
 
-- 👨‍💻 I'm currently learning JavaScript and TypeScript
+- 👨‍💻 I'm currently learning Java and mastering C
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
 - 📚 Knows a lot about JS, CSS, HTML, Python (But i'm kind of rusty)
 - ⚙  Future software engineer
