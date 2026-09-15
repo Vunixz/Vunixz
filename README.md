@@ -1,6 +1,6 @@
 ## Hi, how are you? i'm @Vunixz
 
-- 👨‍💻 I'm currently learning Java and mastering C
+- 👨‍💻 I'm currently learning Java and C
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
 - 📚 Knows a lot about JS, CSS, HTML, Python, C, C++
 - ⚙  Currently studying Software Engineering at UFLA (🟩🟩⬛⬛⬛40%)
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cpp,c,py,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,c,py,js,j" />
   </a>
 </p>
 
