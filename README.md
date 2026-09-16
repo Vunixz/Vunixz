@@ -3,7 +3,7 @@
 - 👨‍💻 I'm currently learning Java and C
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
 - 📚 Knows a lot about JS, CSS, HTML, Python, C, C++
-- ⚙  Currently coursing Software Engineering at UFLA (🟩🟩⬛⬛⬛40%)
+- ⚙  Currently coursing Software Engineering at ICTIN - UFLA (🟩🟩⬛⬛⬛40%)
 
 <div align="center">
   
