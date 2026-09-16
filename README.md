@@ -1,6 +1,6 @@
 ## Hi, how are you? i'm @Vunixz
 
-- 👨‍💻 I'm currently learning Java and C
+- 👨‍💻 I'm currently learning Java and Solidity
 - 📩 Mail me at: vinicius.menezes2007@gmail.com
 - 📚 Knows a lot about JS, CSS, HTML, Python, C, C++
 - ⚙  Currently coursing Software Engineering at ICTIN - UFLA (🟩🟩⬛⬛⬛40%)
