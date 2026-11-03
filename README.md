@@ -7,8 +7,8 @@
 
 <div align="center">
   
-![Vunixz's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vunixz&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&line_height=28.5)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Vunixz&layout=donut&theme=tokyonight)
+![Vunixz's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vunixz&show_icons=true&theme=github_dark_dimmed&rank_icon=default&include_all_commits=true&line_height=28.5)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Vunixz&layout=donut&theme=github_dark_dimmed)
   
   
 </div>
